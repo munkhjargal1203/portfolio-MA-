@@ -33,7 +33,8 @@ A.Munkhjargal Portfolio
             from { box-shadow: 0 0 20px rgba(56, 189, 248, 0.3); }
             to { box-shadow: 0 0 30px rgba(56, 189, 248, 0.6), 0 0 40px rgba(56, 189, 248, 0.3); }
         }
-        @keyframes float {
+        @keyframes float {[index.html](https://github.com/user-attachments/files/26144305/index.html)
+
             0%, 100% { transform: translateY(0px); }
             50% { transform: translateY(-10px); }
         }
